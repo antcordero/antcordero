@@ -1,18 +1,18 @@
 # Hello there 👋😄
 
-<img src="https://github.com/ToniTonyChopper/ToniTonyChopper/blob/main/githubReadme/banner.png" alt="banner that says Antonio Cordero - Web Applications Development Student">
+<img src="https://github.com/antcordero/antcordero/blob/main/github-Readme-images/banner.png" alt="banner that says Antonio Cordero - Web Applications Development Student">
 I'm Antonio Cordero, a first-year student in Web Applications Development at <a href="https://fp.iescampanillas.com/">I.E.S. Alan Turing</a>, Malaga. I already have a background as a scientist and chemical laboratory analyst and previous working experience in quality and testing in the industry that has helped me develop a detail-oriented, analytical, and creative mentality.👨‍🔬
 <br></br>
 As a passionate hardware enthusiast, I have always had a curiosity for computer science, and now I'm eager to change my career path and learn everything about software development. 🧑‍💻 I am open to opportunities that allow me to leverage my skills and experience. 📈
 <br></br>
 What I enjoy is mechanics, learning new languages, reading sci-fi, and playing video games 👾
 
-## Contact me anytime 🫡: <img align="left" width="150" height="150" src="https://github.com/ToniTonyChopper/ToniTonyChopper/blob/main/githubReadme/red-in-a-pc.png">
+## Contact me anytime 🫡: <img align="left" width="150" height="150" src="https://github.com/antcordero/antcordero/blob/main/github-Readme-images/red-in-a-pc.png">
 
 - <a href="https://www.linkedin.com/in/antcordero/">LinkedIn</a> 💼
 - Personal e-mail: antoniocorderomn@gmail.com 📩
 - Student e-mail: acormol2001@g.educaand.es 📩
-- <a href="https://github.com/ToniTonyChopper">Personal GitHub Profile</a> 👾
+- <a href="https://github.com/antcordero">Personal GitHub Profile</a> 👾
 
 ## Currently learning these Languages and Tools:📝:
 <p align="center">
