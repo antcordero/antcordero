@@ -11,7 +11,7 @@ What I enjoy is mechanics, learning new languages, reading sci-fi, and playing v
 
 - <a href="https://www.linkedin.com/in/antcordero/">LinkedIn</a> 💼
 - Personal e-mail: antoniocorderomn@gmail.com 📩
-- Student e-mail: acormol2001@g.educaand.es 📩
+  
 - <a href="https://github.com/AntonioCorderoMolina">Student GitHub Profile</a> 👾
 
 ## Currently learning these Languages and Tools:📝:
